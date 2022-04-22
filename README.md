@@ -10,7 +10,7 @@ An ongoing curated list of awesome frameworks, important books & articles, talks
 ### About Vue.js: the progressive JavaScript framework
 [Vue.js](https://en.wikipedia.org/wiki/Vue.js) is  is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications.
 
-![image](https://github.com/veilair/vue-development/blob/main/img/vue-main.svg.png)
+![image](https://github.com/veilair/vue-development/blob/main/img/vuejs.png)
 
 An approachable, performant and versatile framework for building web user interfaces.
  - Approachable

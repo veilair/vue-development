@@ -23,14 +23,16 @@ An approachable, performant and versatile framework for building web user interf
 ### What is BackboneJS used for?
 Developed in 2016, Vue.js is one of the most versatile front-end JavaScript frameworks. It’s also known as a progressive framework due to its capability to facilitate the design of high-end single-page web applications through dual integration mode. The framework follows the MVMM (Model-View-ViewModel) architecture pattern. Besides that, Vue.js is simple, unrestricted, and an easy-to-adopt framework.   
 
-Pros:
+### `Features:`
+#### Pros:
 
-Quick and easy configuration due to MVVM architecture
-Easy to learn, use, and understand even for beginners
-Lightweight framework with a small build size
-Seamless integration with third-party apps
-It comes with a virtual DOM option
-Cons:
+- Quick and easy configuration due to MVVM architecture
+- Easy to learn, use, and understand even for beginners
+- Lightweight framework with a small build size
+- Seamless integration with third-party apps
+- It comes with a virtual DOM option
+
+#### Cons:
 
 Lack of high-end and effective plugins
 Not suitable for extensive scaling 

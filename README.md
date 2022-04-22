@@ -34,8 +34,8 @@ Developed in 2016, Vue.js is one of the most versatile front-end JavaScript fram
 
 #### Cons:
 
-Lack of high-end and effective plugins
-Not suitable for extensive scaling 
-Older versions of iOS and Safari browsers can cause problems
-Difficulty with two-way binding 
-Excessive flexibility can lead to fatal errors
+- Lack of high-end and effective plugins
+- Not suitable for extensive scaling 
+- Older versions of iOS and Safari browsers can cause problems
+- Difficulty with two-way binding 
+- Excessive flexibility can lead to fatal errors

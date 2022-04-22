@@ -8,7 +8,7 @@ An ongoing curated list of awesome frameworks, important books & articles, talks
 ## `Introduction`
 
 ### About Vue.js: the progressive JavaScript framework
-[Backbone.js](https://en.wikipedia.org/wiki/Backbone.js) is a JavaScript library with a RESTful JSON interface and is based on the model–view–controller application design paradigm. 
+[Backbone.js](https://en.wikipedia.org/wiki/Backbone.js) is  is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications.
 
 An approachable, performant and versatile framework for building web user interfaces.
  - Approachable

@@ -20,6 +20,7 @@ An approachable, performant and versatile framework for building web user interf
 - Versatile
 > A rich, incrementally adoptable ecosystem that scales between a library and a full-featured framework.
 
+### What is BackboneJS used for?
 Developed in 2016, Vue.js is one of the most versatile front-end JavaScript frameworks. It’s also known as a progressive framework due to its capability to facilitate the design of high-end single-page web applications through dual integration mode. The framework follows the MVMM (Model-View-ViewModel) architecture pattern. Besides that, Vue.js is simple, unrestricted, and an easy-to-adopt framework.   
 
 Pros:
